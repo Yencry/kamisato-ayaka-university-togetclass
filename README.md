@@ -1,2 +1,2 @@
-# Kamisato-Ayaka-University-Togetclass
+# Kamisato Ayaka University Togetclass
 油猴脚本
